@@ -1,6 +1,6 @@
 # InterviewBit Puzzles
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-479/2081-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/200-1f425f.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
@@ -9,6 +9,8 @@
 ## Problems
 
 ### Math
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/30-1f425f.svg)
+
 | Name                                                                                                 | Solution |
 |------------------------------------------------------------------------------------------------------|:--------:|
 | [Monkeys and Doors](https://www.interviewbit.com/problems/monkeys-and-doors)                         |          |
@@ -41,3 +43,27 @@
 | [Celebrity Problem](https://www.interviewbit.com/problems/celebrity-problem)                         |          |
 | [Spider's Web](https://www.interviewbit.com/problems/spiders-web)                                    |          |
 | [Ratio of Boys and Girls](https://www.interviewbit.com/problems/ratio-of-boys-and-girls)             |          |
+
+
+### Logical Deduction 
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/10-1f425f.svg)
+
+| Name                                                                           | Solution |
+|--------------------------------------------------------------------------------|:--------:|
+| [Daughter's Ages](https://www.interviewbit.com/problems/daughters-ages)        |          |
+| [Jelly Beans Jars](https://www.interviewbit.com/problems/jelly-beans-jars)     |          |
+| [Genie and Hats](https://www.interviewbit.com/problems/genie-and-hats)         |          |
+| [The Tribe](https://www.interviewbit.com/problems/the-tribe)                   |          |
+| [Two Pills each day](https://www.interviewbit.com/problems/two-pills-each-day) |          |
+| [Two Numbers](https://www.interviewbit.com/problems/two-numbers)               |          |
+| [Min Elevator Trips](https://www.interviewbit.com/problems/min-elevator-trips) |          |
+| [Good Processor](https://www.interviewbit.com/problems/good-processor)         |          |
+
+
+### Physics
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/2-1f425f.svg)
+
+| Name                                                                         | Solution |
+|------------------------------------------------------------------------------|:--------:|
+| [Helium Balloon](https://www.interviewbit.com/problems/helium-balloon)       |          |
+| [Color of the Bear](https://www.interviewbit.com/problems/color-of-the-bear) |          |
