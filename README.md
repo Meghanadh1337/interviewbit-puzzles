@@ -4,12 +4,10 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
-🔒 = Subscription Content
-
 ## Problems
 
 ### Math
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/30-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/30-00ffff.svg)
 
 | Name                                                                                                 | Solution |
 |------------------------------------------------------------------------------------------------------|:--------:|
@@ -46,7 +44,7 @@
 
 
 ### Logical Deduction 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/10-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/10-00ffff.svg)
 
 | Name                                                                           | Solution |
 |--------------------------------------------------------------------------------|:--------:|
@@ -61,9 +59,37 @@
 
 
 ### Physics
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/2-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/2-00ffff.svg)
 
 | Name                                                                         | Solution |
 |------------------------------------------------------------------------------|:--------:|
 | [Helium Balloon](https://www.interviewbit.com/problems/helium-balloon)       |          |
 | [Color of the Bear](https://www.interviewbit.com/problems/color-of-the-bear) |          |
+
+
+### Game
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/4-00ffff.svg)
+
+| Name                                                                                               | Solution |
+|----------------------------------------------------------------------------------------------------|:--------:|
+| [Medicine Chest on a Boat](https://www.interviewbit.com/problems/medicine-chest-on-a-boat)         |          |
+| [Quarters on a Table](https://www.interviewbit.com/problems/quarters-on-a-table)                   |          |
+| [Blindfolded Coin Toss](https://www.interviewbit.com/problems/blindfolded-coin-toss)               |          |
+| [Light Switches in the Cellar](https://www.interviewbit.com/problems/light-switches-in-the-cellar) |          |
+
+
+### Geometry and Shape
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/10-00ffff.svg)
+
+| Name                                                                                                                   | Solution |
+|------------------------------------------------------------------------------------------------------------------------|:--------:|
+| [Breaking Chocolate Bars](https://www.interviewbit.com/problems/breaking-chocolate-bars)                               |          |
+| [Spinning Disc's Direction](https://www.interviewbit.com/problems/spinning-discs-direction)                            |          |
+| [Equilateral Triangles using Toothpicks](https://www.interviewbit.com/problems/equilateral-triangles-using-toothpicks) |          |
+| [Divide the Cake](https://www.interviewbit.com/problems/divide-the-cake)                                               |          |
+| [Find the Defective Ball](https://www.interviewbit.com/problems/find-the-defective-ball)                               |          |
+| [Six Colored Cubes](https://www.interviewbit.com/problems/six-colored-cubes)                                           |          |
+| [Divide Gold Bar](https://www.interviewbit.com/problems/divide-gold-bar)                                               |          |
+| [Cats and a Square](https://www.interviewbit.com/problems/cats-and-a-square)                                           |          |
+| [Find the Defective Ball II](https://www.interviewbit.com/problems/find-the-defective-ball-ii)                         |          |
+| [Ants on a Triangle](https://www.interviewbit.com/problems/ants-on-a-triangle)                                         |          |
